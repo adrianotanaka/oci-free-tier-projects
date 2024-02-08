@@ -1,4 +1,3 @@
-
 🇺🇸 Discover what you can do with [OCI Free Tier](https://www.oracle.com/cloud/free/) , in this repo I will try to put as much projects that you can deploy in cloud without spending a lot of money!
 
 First of all, here are the list of resources available under the free tier(as of 08/02/2024):
@@ -10,6 +9,8 @@ First of all, here are the list of resources available under the free tier(as of
 
 And many more
 
+Do you want to add more examples? Feel free to reach me or to make a PR.
+
 
 🇧🇷 Descubra o que você pode fazer com o [Free Tier da OCI](https://www.oracle.com/cloud/free/), nesse repositório vou tentar colocar projetos que você consegue fazer o deploy sem gastar muito dinheiro!
 Esses são os principais recursos disponíveis (na data de hoje, 08/02/2024):
@@ -20,5 +21,21 @@ Esses são os principais recursos disponíveis (na data de hoje, 08/02/2024):
 
 E muitos outros
 
-https://github.com/oracle-quickstart/oci-cloudnative
+Você quer enviar outros exemplos? Entre em contato comigou faça um PR.
+
+## Projects
+
+### k8s
+
+ - Script to deploy a k8s cluster using Free Tier (A1 ARM) >
+   https://github.com/jpetazzo/ampernetacle
+   
+ - How to deploy it in Portuguese >
+   https://www.youtube.com/watch?v=c5qUOtB3fxo
+
+### Cloud Native solutions:
+MuShop > https://github.com/oracle-quickstart/oci-cloudnative
+
+### Websites that runs in OCI Free Tier
+
 www.adrianotanaka.com.br 
