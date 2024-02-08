@@ -1,3 +1,4 @@
+
 🇺🇸 Discover what you can do with [OCI Free Tier](https://www.oracle.com/cloud/free/) , in this repo I will try to put as much projects that you can deploy in cloud without spending a lot of money!
 
 First of all, here are the list of resources available under the free tier(as of 08/02/2024):
@@ -18,3 +19,6 @@ Esses são os principais recursos disponíveis (na data de hoje, 08/02/2024):
 - Block Storage, Objects
 
 E muitos outros
+
+https://github.com/oracle-quickstart/oci-cloudnative
+www.adrianotanaka.com.br 
