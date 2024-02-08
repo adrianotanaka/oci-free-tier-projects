@@ -1,4 +1,4 @@
-🇺🇸Discover what you can do with [OCI Free Tier](https://www.oracle.com/cloud/free/) , in this repo I will try to put as much projects that you can deploy in cloud without spending a lot of money!
+🇺🇸 Discover what you can do with [OCI Free Tier](https://www.oracle.com/cloud/free/) , in this repo I will try to put as much projects that you can deploy in cloud without spending a lot of money!
 
 First of all, here are the list of resources available under the free tier(as of 08/02/2024):
 
@@ -10,7 +10,7 @@ First of all, here are the list of resources available under the free tier(as of
 And many more
 
 
-🇧🇷Descubra o que você pode fazer com o [Free Tier da OCI](https://www.oracle.com/cloud/free/), nesse repositório vou tentar colocar projetos que você consegue fazer o deploy sem gastar muito dinheiro!
+🇧🇷 Descubra o que você pode fazer com o [Free Tier da OCI](https://www.oracle.com/cloud/free/), nesse repositório vou tentar colocar projetos que você consegue fazer o deploy sem gastar muito dinheiro!
 Esses são os principais recursos disponíveis (na data de hoje, 08/02/2024):
 - Duas instâncias de Autonomous Database
 - Duas instancias AMD
