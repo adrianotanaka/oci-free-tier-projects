@@ -34,8 +34,8 @@ Você quer enviar outros exemplos? Entre em contato comigou faça um PR.
    https://www.youtube.com/watch?v=c5qUOtB3fxo
 
 ### Cloud Native solutions:
-MuShop > https://github.com/oracle-quickstart/oci-cloudnative
+ - MuShop, a solution that uses a lot of the free resources > https://github.com/oracle-quickstart/oci-cloudnative
 
 ### Websites that runs in OCI Free Tier
 
-www.adrianotanaka.com.br 
+ - www.adrianotanaka.com.br 
