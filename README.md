@@ -36,8 +36,13 @@ Você quer enviar outros exemplos? Entre em contato comigou faça um PR.
  - k8s cluster using OpenTofu > https://github.com/Rapha-Borges/oke-free
  - k8s cluster using Terraform > https://github.com/spreading-devops/oci-oke-terraform
 
-### Cloud Native solutions:
+### Cloud Native solutions
  - MuShop, a solution that uses a lot of the free resources > https://github.com/oracle-quickstart/oci-cloudnative
+
+### Automation
+
+https://adrianotanaka.com.br/index.php/2022/09/10/oci-usando-tags-e-oci-cli-para-automatizar-delecao-de-recursos/
+https://adrianotanaka.com.br/index.php/2020/08/04/gerenciando-instancias-no-oci-usando-oci-cli-e-uma-instancia-always-free/
 
 ### Websites that runs in OCI Free Tier
 
