@@ -32,6 +32,9 @@ Você quer enviar outros exemplos? Entre em contato comigou faça um PR.
    
  - How to deploy it in Portuguese >
    https://www.youtube.com/watch?v=c5qUOtB3fxo
+   
+ - k8s cluster using OpenTofu > https://github.com/Rapha-Borges/oke-free
+ - k8s cluster using Terraform > https://github.com/spreading-devops/oci-oke-terraform
 
 ### Cloud Native solutions:
  - MuShop, a solution that uses a lot of the free resources > https://github.com/oracle-quickstart/oci-cloudnative
