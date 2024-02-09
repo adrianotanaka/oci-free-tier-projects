@@ -41,8 +41,9 @@ Você quer enviar outros exemplos? Entre em contato comigou faça um PR.
 
 ### Automation
 
-https://adrianotanaka.com.br/index.php/2022/09/10/oci-usando-tags-e-oci-cli-para-automatizar-delecao-de-recursos/
-https://adrianotanaka.com.br/index.php/2020/08/04/gerenciando-instancias-no-oci-usando-oci-cli-e-uma-instancia-always-free/
+ - https://adrianotanaka.com.br/index.php/2022/09/10/oci-usando-tags-e-oci-cli-para-automatizar-delecao-de-recursos/
+
+ - https://adrianotanaka.com.br/index.php/2020/08/04/gerenciando-instancias-no-oci-usando-oci-cli-e-uma-instancia-always-free/
 
 ### Websites that runs in OCI Free Tier
 
