@@ -38,6 +38,7 @@ Você quer enviar outros exemplos? Entre em contato comigou faça um PR.
 
 ### Cloud Native solutions
  - MuShop, a solution that uses a lot of the free resources > https://github.com/oracle-quickstart/oci-cloudnative
+ - Self-Hosted VaultWarden > https://github.com/Rapha-Borges/deploy-vaultwarden
 
 ### Automation
 
